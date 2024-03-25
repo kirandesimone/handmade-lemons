@@ -1,3 +1,4 @@
+// SPECIFYING THE CLANG PATH AND STD FOR INTELLISENSE
 {
     "configurations": [
         {
